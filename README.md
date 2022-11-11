@@ -17,7 +17,7 @@
 <h1>AUTHORS</h1>
 <ul>
 <li> 221015279 Habimana Didier Sharif</li>
-<li> 22100 Kalinda Fabrice</li>
-<li> 221022348 Ishimwe Maxime</li>
+<li> 221007633 Kalinda Fabrice</li>
+<li> 221001424 Ishimwe Maxime</li>
 <li> 221024290 Furaha Moses</li>
 </ul>
